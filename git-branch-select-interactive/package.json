@@ -1,0 +1,15 @@
+{
+  "name": "git-branch-select-interactive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-select": "^1.1.1",
+    "shelljs": "^0.8.3"
+  }
+}
